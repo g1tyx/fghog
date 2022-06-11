@@ -222,7 +222,7 @@ var cnItems = {
     "Pressurized Water Reactor": "压力水冷反应堆",
     "Requirements": "要求",
     "Sand Smelter": "砂冶炼厂",
-    "Solar Central": "太阳能中央",
+    "Solar Central": "太阳能中心",
     "Superconductors Factory": "超导体厂",
     "Technetium": "锝",
     "Water": "水",
@@ -266,7 +266,7 @@ var cnItems = {
     "to": "到",
     "Rename": "重命名",
     "Type a new name": "请输入一个新名称",
-    "": "",
+    "Enable": "启用",
     "": "",
     "": "",
     "": "",
@@ -370,7 +370,7 @@ var cnItems = {
     '* 启用后台游戏': '* 启用后台游戏',
     '更多同类游戏:': '更多同类游戏:',
     'K': 'K',
-    '': '',
+    'M': 'M',
     '': '',
 
 }
