@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/zhaolinxu/GitHub/Games/2022/fghog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_659b0eca"
+  },
+  {
+    "name": "index___zh",
+    "path": "/",
+    "component": "/Users/zhaolinxu/GitHub/Games/2022/fghog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_659b0eca"
+  }
+]

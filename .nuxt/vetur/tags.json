@@ -1,0 +1,62 @@
+{
+  "BuildingDetails": {
+    "description": "Auto imported from components/BuildingDetails.vue"
+  },
+  "BuildingSummary": {
+    "description": "Auto imported from components/BuildingSummary.vue"
+  },
+  "FleetsGroundDetails": {
+    "description": "Auto imported from components/FleetsGroundDetails.vue"
+  },
+  "FleetsGroundSummary": {
+    "description": "Auto imported from components/FleetsGroundSummary.vue"
+  },
+  "FleetsOrbittingDetails": {
+    "description": "Auto imported from components/FleetsOrbittingDetails.vue"
+  },
+  "FleetsOrbittingSummary": {
+    "description": "Auto imported from components/FleetsOrbittingSummary.vue"
+  },
+  "FormatNumber": {
+    "description": "Auto imported from components/FormatNumber.vue"
+  },
+  "FormatTime": {
+    "description": "Auto imported from components/FormatTime.vue"
+  },
+  "MapPlanet": {
+    "description": "Auto imported from components/MapPlanet.vue"
+  },
+  "MapRoute": {
+    "description": "Auto imported from components/MapRoute.vue"
+  },
+  "PlanetEnergy": {
+    "description": "Auto imported from components/PlanetEnergy.vue"
+  },
+  "PlanetInfo": {
+    "description": "Auto imported from components/PlanetInfo.vue"
+  },
+  "PlanetResources": {
+    "description": "Auto imported from components/PlanetResources.vue"
+  },
+  "PlanetVignet": {
+    "description": "Auto imported from components/PlanetVignet.vue"
+  },
+  "ResearchDetails": {
+    "description": "Auto imported from components/ResearchDetails.vue"
+  },
+  "ResearchSummary": {
+    "description": "Auto imported from components/ResearchSummary.vue"
+  },
+  "ShipDetails": {
+    "description": "Auto imported from components/ShipDetails.vue"
+  },
+  "ShipSummary": {
+    "description": "Auto imported from components/ShipSummary.vue"
+  },
+  "TravelDetails": {
+    "description": "Auto imported from components/TravelDetails.vue"
+  },
+  "TravelSummary": {
+    "description": "Auto imported from components/TravelSummary.vue"
+  }
+}
